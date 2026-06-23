@@ -31,7 +31,7 @@ State lives in ${pc.dim('.caesar-monitor/')}. Keyless — runs on Caesar's free 
 }
 
 function fmtTime(iso?: string): string {
-  if (!iso) return 'just now';
+  if (!iso) return 'unknown time'; // never fabricate a capture moment we don't have
   const d = new Date(iso);
   if (Number.isNaN(d.getTime())) return iso;
   return d.toISOString().replace('T', ' ').slice(0, 16) + ' UTC';

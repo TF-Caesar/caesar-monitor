@@ -64,6 +64,30 @@ describe('checkWatch', () => {
     expect(items[1].url).toBe('https://o/b');
   });
 
+  it('drops search-only results that were never read (no capture time)', async () => {
+    searchMock.mockResolvedValue({
+      search_id: 's1',
+      results: [
+        { rank: 1, title: 'Actually read', canonical_url: 'https://o/a', doc_id: 'a', snippet: 's' },
+        { rank: 2, title: 'Search only', canonical_url: 'https://o/b', doc_id: 'b', snippet: 's' },
+      ],
+    });
+    // Only /a returns a real read with provenance; /b is read but yields nothing
+    // (no capture_time, no text) — it must NOT be reported as a captured item.
+    readMock.mockImplementation(async (url: string) =>
+      url.endsWith('a')
+        ? { doc: { doc_id: 'a', canonical_url: url }, content: { text: 'Grounded body.' }, passages: [], provenance: { capture_id: 'c', capture_time: '2026-06-22T09:00:00Z' } }
+        : { content: { text: '' }, passages: [] },
+    );
+
+    const client = createCaesarClient();
+    const items = await checkWatch(client, { id: 'w', topic: 't', addedAt: 'x' });
+
+    expect(items).toHaveLength(1);
+    expect(items[0]).toMatchObject({ url: 'https://o/a', captureTime: '2026-06-22T09:00:00Z' });
+    expect(items.every((i) => i.captureTime)).toBe(true); // never a captureless "just now" item
+  });
+
   it('skips results that lack a url', async () => {
     searchMock.mockResolvedValue({
       search_id: 's1',

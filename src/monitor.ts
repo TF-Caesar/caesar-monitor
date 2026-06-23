@@ -31,6 +31,10 @@ export async function checkWatch(
   const items: CurrentItem[] = [];
   for (const c of citations) {
     if (!c.canonicalUrl) continue;
+    // searchAndRead emits a citation for every search hit but reads only readTopN.
+    // Report only items we actually READ (real capture provenance) — never a
+    // search-only hit, which would otherwise be printed with a fake "just now" time.
+    if (!c.captureTime) continue;
     items.push({
       docId: c.docId ?? '',
       title: c.title?.trim() || c.canonicalUrl,
