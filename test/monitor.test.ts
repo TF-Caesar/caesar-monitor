@@ -44,8 +44,8 @@ describe('checkWatch', () => {
     searchMock.mockResolvedValue({
       search_id: 's1',
       results: [
-        { rank: 1, title: 'GPT-X launches', canonical_url: 'https://o/a', doc_id: 'a', snippet: 's' },
-        { rank: 2, title: 'Pricing update', canonical_url: 'https://o/b', doc_id: 'b', snippet: 's' },
+        { rank: 1, title: 'GPT-X launches', canonical_url: 'https://o/a', doc_id: 'a', snippet: 's', score: { value: 0.9 } },
+        { rank: 2, title: 'Pricing update', canonical_url: 'https://o/b', doc_id: 'b', snippet: 's', score: { value: 0.9 } },
       ],
     });
     // Anonymous tier: content.text present, passages empty — the documented quirk.
@@ -68,8 +68,8 @@ describe('checkWatch', () => {
     searchMock.mockResolvedValue({
       search_id: 's1',
       results: [
-        { rank: 1, title: 'Actually read', canonical_url: 'https://o/a', doc_id: 'a', snippet: 's' },
-        { rank: 2, title: 'Search only', canonical_url: 'https://o/b', doc_id: 'b', snippet: 's' },
+        { rank: 1, title: 'Actually read', canonical_url: 'https://o/a', doc_id: 'a', snippet: 's', score: { value: 0.9 } },
+        { rank: 2, title: 'Search only', canonical_url: 'https://o/b', doc_id: 'b', snippet: 's', score: { value: 0.9 } },
       ],
     });
     // Only /a returns a real read with provenance; /b is read but yields nothing
@@ -91,7 +91,7 @@ describe('checkWatch', () => {
   it('skips results that lack a url', async () => {
     searchMock.mockResolvedValue({
       search_id: 's1',
-      results: [{ rank: 1, title: 'No url', canonical_url: '', doc_id: 'a' }],
+      results: [{ rank: 1, title: 'No url', canonical_url: '', doc_id: 'a', score: { value: 0.9 } }],
     });
     readMock.mockResolvedValue({ content: { text: '' }, passages: [] });
     const client = createCaesarClient();

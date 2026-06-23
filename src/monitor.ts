@@ -25,6 +25,7 @@ export async function checkWatch(
     maxResults: 10,
     readTopN: 5,
     mode: 'standard',
+    minScore: 0.3, // drop low-confidence / unscored (gibberish) results
     ...(watch.lastChecked ? { publishedAfter: watch.lastChecked } : {}),
   });
 
