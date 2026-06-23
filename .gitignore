@@ -1,6 +1,9 @@
 *.log
 .DS_Store
-.caesar-monitor
+# Local monitor scratch is ignored, but the seed watch list is tracked so the
+# scheduled Action has something to check on a fresh clone.
+.caesar-monitor/*
+!.caesar-monitor/watches.json
 .env
 dist
 node_modules

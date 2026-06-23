@@ -51,7 +51,9 @@ Caesar's anonymous tier returns the full read text but usually no structured pas
 
 ## Run it on a schedule (no server)
 
-[`.github/workflows/monitor.yml`](.github/workflows/monitor.yml) runs `check` on a daily cron (and on demand via **workflow_dispatch**), writes new findings to the job summary, and commits the updated `.caesar-monitor/` state back to the repo. No Fly, no box, no cron daemon — just a repo that remembers.
+[`.github/workflows/monitor.yml`](.github/workflows/monitor.yml) runs `check` on a daily cron (and on demand via **workflow_dispatch**), writes new findings to the job summary, and commits the updated state back to the repo. No Fly, no box, no cron daemon — just a repo that remembers.
+
+The watch list lives in a **tracked** file, [`.caesar-monitor/watches.json`](.caesar-monitor/watches.json), so the Action has something to check on a fresh clone — it ships seeded with a few AI topics. Fork the repo and edit that file (or run `node dist/cli.js add "..."` locally and commit it) to watch your own topics. The accumulated `.caesar-monitor/state.json` is gitignored locally and force-committed by the Action, which is how it remembers across runs.
 
 ## License
 

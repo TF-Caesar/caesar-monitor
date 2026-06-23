@@ -41,8 +41,9 @@ jobs:
         run: |
           git config user.name  'caesar-monitor[bot]'
           git config user.email 'caesar-monitor@users.noreply.github.com'
-          # .caesar-monitor is gitignored for local dev, so force-add the bot's state.
-          git add -f .caesar-monitor
+          # state.json is gitignored for local dev, so force-add the bot's state.
+          # Guard on existence so the step never fails if the dir is somehow absent.
+          if [ -d .caesar-monitor ]; then git add -f .caesar-monitor; fi
           if git diff --cached --quiet; then
             echo 'No state changes to commit.'
           else

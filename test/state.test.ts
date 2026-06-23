@@ -1,4 +1,5 @@
 import { describe, it, expect, beforeEach, afterEach } from 'vitest';
+import { execSync } from 'node:child_process';
 import { promises as fs } from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
@@ -99,5 +100,26 @@ describe('state load/save round-trip', () => {
     const data = { seen: { z1: { 'a|https://x/a': snap({ docId: 'a', url: 'https://x/a', title: 'A' }) } } };
     await saveState(dir, data);
     expect(await loadState(dir)).toEqual(data);
+  });
+});
+
+describe('seeded watches.json', () => {
+  // The repo must ship a COMMITTED .caesar-monitor/watches.json so the scheduled
+  // GitHub Action has something to check on a fresh clone (and the state dir
+  // exists for `git add -f` to stage). A local untracked file would pass a plain
+  // loadWatches() read but break on a clean checkout — so assert it is tracked.
+  it('is tracked by git (not just a local untracked scratch file)', () => {
+    const tracked = execSync('git ls-files .caesar-monitor/watches.json', { cwd: process.cwd(), encoding: 'utf8' }).trim();
+    expect(tracked).toBe('.caesar-monitor/watches.json');
+  });
+
+  it('parses to at least one valid watch out of the box', async () => {
+    const { watches } = await loadWatches(process.cwd());
+    expect(watches.length).toBeGreaterThan(0);
+    for (const w of watches) {
+      expect(typeof w.id).toBe('string');
+      expect(w.id.length).toBeGreaterThan(0);
+      expect(w.topic.trim().length).toBeGreaterThan(0);
+    }
   });
 });
