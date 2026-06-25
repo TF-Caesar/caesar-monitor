@@ -35,6 +35,41 @@
         "url": "https://whatllm.org/blog/new-ai-models-may-2026",
         "captureTime": "2026-06-24T10:28:57Z",
         "firstSeen": "2026-06-24T10:28:57.222Z"
+      },
+      "cdfb8288-6d33-582e-9526-184c06cd8f87|https://llm-stats.com/ai-news": {
+        "docId": "cdfb8288-6d33-582e-9526-184c06cd8f87",
+        "title": "LLM News Today (June 2026) – AI Model Releases",
+        "url": "https://llm-stats.com/ai-news",
+        "captureTime": "2026-06-25T10:22:07Z",
+        "firstSeen": "2026-06-25T10:22:07.184Z"
+      },
+      "baeb2597-d551-547f-a4f8-a2d9e7f9f40f|https://releases.sh/openai/releases": {
+        "docId": "baeb2597-d551-547f-a4f8-a2d9e7f9f40f",
+        "title": "OpenAI Release Notes & Changelog · June 2026 — releases.sh",
+        "url": "https://releases.sh/openai/releases",
+        "captureTime": "2026-06-25T10:22:07Z",
+        "firstSeen": "2026-06-25T10:22:07.184Z"
+      },
+      "fecec7bb-e818-5383-9a0b-8824a8fe2c99|https://releasebot.io/updates/openai": {
+        "docId": "fecec7bb-e818-5383-9a0b-8824a8fe2c99",
+        "title": "OpenAI Release Notes - June 2026 Latest Updates - Releasebot",
+        "url": "https://releasebot.io/updates/openai",
+        "captureTime": "2026-06-25T10:22:07Z",
+        "firstSeen": "2026-06-25T10:22:07.184Z"
+      },
+      "5f20ad9b-639e-516d-bfcf-158ffdb31263|https://llm-stats.com/llm-updates": {
+        "docId": "5f20ad9b-639e-516d-bfcf-158ffdb31263",
+        "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
+        "url": "https://llm-stats.com/llm-updates",
+        "captureTime": "2026-06-25T10:22:07Z",
+        "firstSeen": "2026-06-25T10:22:07.184Z"
+      },
+      "22410217-77f8-55ac-9528-f2124bb00426|https://9to5mac.com/2026/06/24/openai-just-updated-how-chatgpts-most-used-model-works-again-details-here": {
+        "docId": "22410217-77f8-55ac-9528-f2124bb00426",
+        "title": "OpenAI just updated how ChatGPT's most-used model works again, details here - 9to5Mac",
+        "url": "https://9to5mac.com/2026/06/24/openai-just-updated-how-chatgpts-most-used-model-works-again-details-here",
+        "captureTime": "2026-06-25T10:22:07Z",
+        "firstSeen": "2026-06-25T10:22:07.184Z"
       }
     },
     "pqboak": {
@@ -42,7 +77,7 @@
         "docId": "6e79b899-7d2f-5ed4-a370-877d20dc0062",
         "title": "Claude Code Updates by Anthropic - June 2026 - Releasebot",
         "url": "https://releasebot.io/updates/anthropic/claude-code",
-        "captureTime": "2026-06-24T10:29:01Z",
+        "captureTime": "2026-06-25T10:22:10Z",
         "firstSeen": "2026-06-24T10:28:57.222Z"
       },
       "7918e575-13a4-5705-b07c-32e1e49c3070|https://releasebot.io/updates/anthropic/claude": {
@@ -56,7 +91,7 @@
         "docId": "17d481fa-55cb-5b9e-9b7d-7b7f98e9a3ab",
         "title": "Anthropic Release Notes - June 2026 Latest Updates - Releasebot",
         "url": "https://releasebot.io/updates/anthropic",
-        "captureTime": "2026-06-24T10:29:01Z",
+        "captureTime": "2026-06-25T10:22:10Z",
         "firstSeen": "2026-06-24T10:28:57.222Z"
       },
       "b7ed0ee2-d232-5cc1-8296-373ed119d98b|https://www.cnet.com/tech/services-and-software/anthropic-claude-code-design-june-2026-news": {
@@ -72,6 +107,27 @@
         "url": "https://www.fastcompany.com/91561193/anthropics-updated-claude-design-gives-vibe-coders-and-their-design-overlords-more-control",
         "captureTime": "2026-06-24T10:29:01Z",
         "firstSeen": "2026-06-24T10:28:57.222Z"
+      },
+      "9490e164-6580-51f6-bba9-91a64523b69d|https://letsdatascience.com/news/topic/anthropic": {
+        "docId": "9490e164-6580-51f6-bba9-91a64523b69d",
+        "title": "Anthropic News: Claude, AI Safety & Research Updates | Let's Data Science",
+        "url": "https://letsdatascience.com/news/topic/anthropic",
+        "captureTime": "2026-06-25T10:22:10Z",
+        "firstSeen": "2026-06-25T10:22:07.184Z"
+      },
+      "fe8fdca0-2cfb-5093-bbad-9908f1d5cc98|https://en.wikipedia.org/wiki/Claude_(language_model)": {
+        "docId": "fe8fdca0-2cfb-5093-bbad-9908f1d5cc98",
+        "title": "Claude (AI) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
+        "captureTime": "2026-06-25T10:22:10Z",
+        "firstSeen": "2026-06-25T10:22:07.184Z"
+      },
+      "24754e3c-c78b-51a7-87e0-e788e4dbd52d|https://status.claude.com/": {
+        "docId": "24754e3c-c78b-51a7-87e0-e788e4dbd52d",
+        "title": "Claude Status",
+        "url": "https://status.claude.com/",
+        "captureTime": "2026-06-25T10:22:10Z",
+        "firstSeen": "2026-06-25T10:22:07.184Z"
       }
     },
     "8mteg4": {
@@ -109,6 +165,41 @@
         "url": "https://medium.com/data-science-collective/the-open-source-agent-toolkit-in-2026-da66dda36c9b",
         "captureTime": "2026-06-24T10:29:03Z",
         "firstSeen": "2026-06-24T10:28:57.222Z"
+      },
+      "11b2cb07-108a-5693-987e-dea2ad7d1e4b|https://agentic.ai/best/open-source-coding-agents": {
+        "docId": "11b2cb07-108a-5693-987e-dea2ad7d1e4b",
+        "title": "Best Open-Source AI Coding Agents in 2026 — Agentic.ai",
+        "url": "https://agentic.ai/best/open-source-coding-agents",
+        "captureTime": "2026-06-25T10:22:12Z",
+        "firstSeen": "2026-06-25T10:22:07.184Z"
+      },
+      "7ec8d49b-f924-5da4-8119-bce6702ea2ad|https://goose-docs.ai/": {
+        "docId": "7ec8d49b-f924-5da4-8119-bce6702ea2ad",
+        "title": "goose | Your open source AI agent",
+        "url": "https://goose-docs.ai/",
+        "captureTime": "2026-06-25T10:22:12Z",
+        "firstSeen": "2026-06-25T10:22:07.184Z"
+      },
+      "9d838825-4397-50db-b62c-18171720e519|https://agentic.ai/best/free-coding-agents": {
+        "docId": "9d838825-4397-50db-b62c-18171720e519",
+        "title": "10 Best Free AI Coding Agents in 2026 — Agentic.ai",
+        "url": "https://agentic.ai/best/free-coding-agents",
+        "captureTime": "2026-06-25T10:22:12Z",
+        "firstSeen": "2026-06-25T10:22:07.184Z"
+      },
+      "4dabcb48-a2d7-5882-a7c7-fc34e1130449|https://github.com/omnigent-ai/omnigent": {
+        "docId": "4dabcb48-a2d7-5882-a7c7-fc34e1130449",
+        "title": "GitHub - omnigent-ai/omnigent: Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+        "url": "https://github.com/omnigent-ai/omnigent",
+        "captureTime": "2026-06-25T10:22:12Z",
+        "firstSeen": "2026-06-25T10:22:07.184Z"
+      },
+      "f0d84fea-85b1-56bf-9675-e0e634ef26a3|https://agentic.ai/best/coding-agents": {
+        "docId": "f0d84fea-85b1-56bf-9675-e0e634ef26a3",
+        "title": "18 Best AI Coding Agents in 2026 — Agentic.ai",
+        "url": "https://agentic.ai/best/coding-agents",
+        "captureTime": "2026-06-25T10:22:12Z",
+        "firstSeen": "2026-06-25T10:22:07.184Z"
       }
     }
   }
