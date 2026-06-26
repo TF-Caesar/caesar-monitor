@@ -40,7 +40,7 @@
         "docId": "cdfb8288-6d33-582e-9526-184c06cd8f87",
         "title": "LLM News Today (June 2026) – AI Model Releases",
         "url": "https://llm-stats.com/ai-news",
-        "captureTime": "2026-06-25T10:22:07Z",
+        "captureTime": "2026-06-26T10:30:53Z",
         "firstSeen": "2026-06-25T10:22:07.184Z"
       },
       "baeb2597-d551-547f-a4f8-a2d9e7f9f40f|https://releases.sh/openai/releases": {
@@ -61,7 +61,7 @@
         "docId": "5f20ad9b-639e-516d-bfcf-158ffdb31263",
         "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
         "url": "https://llm-stats.com/llm-updates",
-        "captureTime": "2026-06-25T10:22:07Z",
+        "captureTime": "2026-06-26T10:30:53Z",
         "firstSeen": "2026-06-25T10:22:07.184Z"
       },
       "22410217-77f8-55ac-9528-f2124bb00426|https://9to5mac.com/2026/06/24/openai-just-updated-how-chatgpts-most-used-model-works-again-details-here": {
@@ -70,6 +70,27 @@
         "url": "https://9to5mac.com/2026/06/24/openai-just-updated-how-chatgpts-most-used-model-works-again-details-here",
         "captureTime": "2026-06-25T10:22:07Z",
         "firstSeen": "2026-06-25T10:22:07.184Z"
+      },
+      "0d008d39-7a77-523d-b6cf-d32b02b61858|https://en.wikipedia.org/wiki/OpenAI_o3": {
+        "docId": "0d008d39-7a77-523d-b6cf-d32b02b61858",
+        "title": "OpenAI o3 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/OpenAI_o3",
+        "captureTime": "2026-06-26T10:30:53Z",
+        "firstSeen": "2026-06-26T10:30:53.079Z"
+      },
+      "a8f79885-d879-5a47-8b8c-764d75774ea4|https://en.wikipedia.org/wiki/OpenAI": {
+        "docId": "a8f79885-d879-5a47-8b8c-764d75774ea4",
+        "title": "OpenAI - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/OpenAI",
+        "captureTime": "2026-06-26T10:30:53Z",
+        "firstSeen": "2026-06-26T10:30:53.079Z"
+      },
+      "9beb8dc0-3952-5858-9518-c471a99c5633|https://www.politico.com/news/2026/06/25/openai-gpt-model-goverment-approval-00977551": {
+        "docId": "9beb8dc0-3952-5858-9518-c471a99c5633",
+        "title": "OpenAI pumps the brakes on newest model launch at White House request - POLITICO",
+        "url": "https://www.politico.com/news/2026/06/25/openai-gpt-model-goverment-approval-00977551",
+        "captureTime": "2026-06-26T10:30:53Z",
+        "firstSeen": "2026-06-26T10:30:53.079Z"
       }
     },
     "pqboak": {
@@ -77,7 +98,7 @@
         "docId": "6e79b899-7d2f-5ed4-a370-877d20dc0062",
         "title": "Claude Code Updates by Anthropic - June 2026 - Releasebot",
         "url": "https://releasebot.io/updates/anthropic/claude-code",
-        "captureTime": "2026-06-25T10:22:10Z",
+        "captureTime": "2026-06-26T10:30:55Z",
         "firstSeen": "2026-06-24T10:28:57.222Z"
       },
       "7918e575-13a4-5705-b07c-32e1e49c3070|https://releasebot.io/updates/anthropic/claude": {
@@ -119,7 +140,7 @@
         "docId": "fe8fdca0-2cfb-5093-bbad-9908f1d5cc98",
         "title": "Claude (AI) - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
-        "captureTime": "2026-06-25T10:22:10Z",
+        "captureTime": "2026-06-26T10:30:55Z",
         "firstSeen": "2026-06-25T10:22:07.184Z"
       },
       "24754e3c-c78b-51a7-87e0-e788e4dbd52d|https://status.claude.com/": {
@@ -128,6 +149,27 @@
         "url": "https://status.claude.com/",
         "captureTime": "2026-06-25T10:22:10Z",
         "firstSeen": "2026-06-25T10:22:07.184Z"
+      },
+      "755ac00a-1352-5f82-afa1-8d601e094bed|https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available": {
+        "docId": "755ac00a-1352-5f82-afa1-8d601e094bed",
+        "title": "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available | Amazon Web Services",
+        "url": "https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available",
+        "captureTime": "2026-06-26T10:30:55Z",
+        "firstSeen": "2026-06-26T10:30:53.079Z"
+      },
+      "1ddeed01-ecdd-54f1-89e3-6b99a0527c1f|https://dailybeirut.com/en/artificial-intelligence/anthropics-claude-sees-75-growth-among-paying-ai-consumers-2026": {
+        "docId": "1ddeed01-ecdd-54f1-89e3-6b99a0527c1f",
+        "title": "Anthropic's Claude Sees 75% Growth in Paying Users 2026 · Daily Beirut",
+        "url": "https://dailybeirut.com/en/artificial-intelligence/anthropics-claude-sees-75-growth-among-paying-ai-consumers-2026",
+        "captureTime": "2026-06-26T10:30:55Z",
+        "firstSeen": "2026-06-26T10:30:53.079Z"
+      },
+      "ed58b8b4-5bd4-5129-ab64-a334ced5b512|https://claudefa.st/blog/guide/changelog": {
+        "docId": "ed58b8b4-5bd4-5129-ab64-a334ced5b512",
+        "title": "Claude Code Changelog: All Release Notes (2026)",
+        "url": "https://claudefa.st/blog/guide/changelog",
+        "captureTime": "2026-06-26T10:30:55Z",
+        "firstSeen": "2026-06-26T10:30:53.079Z"
       }
     },
     "8mteg4": {
@@ -156,7 +198,7 @@
         "docId": "7b1daf6c-02e0-5945-9f7d-029dc8aa21b8",
         "title": "Best 50+ Open Source AI Agents Listed",
         "url": "https://aimultiple.com/open-source-ai-agents",
-        "captureTime": "2026-06-24T10:29:03Z",
+        "captureTime": "2026-06-26T10:30:57Z",
         "firstSeen": "2026-06-24T10:28:57.222Z"
       },
       "2b9c81e0-7f7c-5faa-b3a7-b63139a7155d|https://medium.com/data-science-collective/the-open-source-agent-toolkit-in-2026-da66dda36c9b": {
@@ -200,6 +242,27 @@
         "url": "https://agentic.ai/best/coding-agents",
         "captureTime": "2026-06-25T10:22:12Z",
         "firstSeen": "2026-06-25T10:22:07.184Z"
+      },
+      "1532a759-daeb-5fe5-a8c7-acf4083901a5|https://www.techradar.com/pro/how-to-automate-workflows-using-open-source-ai-agents": {
+        "docId": "1532a759-daeb-5fe5-a8c7-acf4083901a5",
+        "title": "How to automate workflows using open-source AI agents | TechRadar",
+        "url": "https://www.techradar.com/pro/how-to-automate-workflows-using-open-source-ai-agents",
+        "captureTime": "2026-06-26T10:30:57Z",
+        "firstSeen": "2026-06-26T10:30:53.079Z"
+      },
+      "22cd71d9-6ab6-5c16-b65c-9e4775a289b6|https://www.explainx.ai/blog/hermes-agent-vs-openclaw-comparison-2026": {
+        "docId": "22cd71d9-6ab6-5c16-b65c-9e4775a289b6",
+        "title": "Hermes Agent vs OpenClaw 2026: Full Comparison of Two Top AI Agents | explainx.ai Blog | explainx.ai",
+        "url": "https://www.explainx.ai/blog/hermes-agent-vs-openclaw-comparison-2026",
+        "captureTime": "2026-06-26T10:30:57Z",
+        "firstSeen": "2026-06-26T10:30:53.079Z"
+      },
+      "ed9e0b03-133e-5e55-b0aa-b5f6dc630bcd|https://technosports.co.in/automate-workflows-ai-agents": {
+        "docId": "ed9e0b03-133e-5e55-b0aa-b5f6dc630bcd",
+        "title": "AI Agents: How to Automate Workflows Using Open-Source",
+        "url": "https://technosports.co.in/automate-workflows-ai-agents",
+        "captureTime": "2026-06-26T10:30:57Z",
+        "firstSeen": "2026-06-26T10:30:53.079Z"
       }
     }
   }
