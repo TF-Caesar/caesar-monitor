@@ -61,7 +61,7 @@
         "docId": "5f20ad9b-639e-516d-bfcf-158ffdb31263",
         "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
         "url": "https://llm-stats.com/llm-updates",
-        "captureTime": "2026-06-26T10:30:53Z",
+        "captureTime": "2026-06-27T09:35:36Z",
         "firstSeen": "2026-06-25T10:22:07.184Z"
       },
       "22410217-77f8-55ac-9528-f2124bb00426|https://9to5mac.com/2026/06/24/openai-just-updated-how-chatgpts-most-used-model-works-again-details-here": {
@@ -91,6 +91,34 @@
         "url": "https://www.politico.com/news/2026/06/25/openai-gpt-model-goverment-approval-00977551",
         "captureTime": "2026-06-26T10:30:53Z",
         "firstSeen": "2026-06-26T10:30:53.079Z"
+      },
+      "8593ed45-ceed-5616-bfe7-fd245bd22296|https://www.axios.com/2026/06/26/openai-gpt-sol-terra-luna-trump": {
+        "docId": "8593ed45-ceed-5616-bfe7-fd245bd22296",
+        "title": "OpenAI releases powerful new GPT-5.6 model under restrictions",
+        "url": "https://www.axios.com/2026/06/26/openai-gpt-sol-terra-luna-trump",
+        "captureTime": "2026-06-27T09:35:36Z",
+        "firstSeen": "2026-06-27T09:35:36.129Z"
+      },
+      "94b22f46-ddad-5894-be9f-9bbda198afb9|https://www.theepochtimes.com/tech/openai-releases-new-flagship-model-to-limited-users-following-government-concerns-6053937": {
+        "docId": "94b22f46-ddad-5894-be9f-9bbda198afb9",
+        "title": "OpenAI Releases New Flagship Model to Limited Users Following Government Concerns | The Epoch Times",
+        "url": "https://www.theepochtimes.com/tech/openai-releases-new-flagship-model-to-limited-users-following-government-concerns-6053937",
+        "captureTime": "2026-06-27T09:35:36Z",
+        "firstSeen": "2026-06-27T09:35:36.129Z"
+      },
+      "1671b6c6-864e-5d70-865a-868eef2ca520|https://www.thurrott.com/a-i/337968/openai-launches-next-gen-gpt-5-6-models-in-limited-preview": {
+        "docId": "1671b6c6-864e-5d70-865a-868eef2ca520",
+        "title": "OpenAI Launches \"Next-Gen\" GPT‑5.6 Models in Limited Preview",
+        "url": "https://www.thurrott.com/a-i/337968/openai-launches-next-gen-gpt-5-6-models-in-limited-preview",
+        "captureTime": "2026-06-27T09:35:36Z",
+        "firstSeen": "2026-06-27T09:35:36.129Z"
+      },
+      "d28bc894-a947-5866-80dc-4cba7fb153e4|https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html": {
+        "docId": "d28bc894-a947-5866-80dc-4cba7fb153e4",
+        "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government",
+        "url": "https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html",
+        "captureTime": "2026-06-27T09:35:36Z",
+        "firstSeen": "2026-06-27T09:35:36.129Z"
       }
     },
     "pqboak": {
@@ -105,7 +133,7 @@
         "docId": "7918e575-13a4-5705-b07c-32e1e49c3070",
         "title": "Claude Updates by Anthropic - June 2026 - Releasebot",
         "url": "https://releasebot.io/updates/anthropic/claude",
-        "captureTime": "2026-06-24T10:29:01Z",
+        "captureTime": "2026-06-27T09:35:39Z",
         "firstSeen": "2026-06-24T10:28:57.222Z"
       },
       "17d481fa-55cb-5b9e-9b7d-7b7f98e9a3ab|https://releasebot.io/updates/anthropic": {
@@ -154,7 +182,7 @@
         "docId": "755ac00a-1352-5f82-afa1-8d601e094bed",
         "title": "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available | Amazon Web Services",
         "url": "https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available",
-        "captureTime": "2026-06-26T10:30:55Z",
+        "captureTime": "2026-06-27T09:35:39Z",
         "firstSeen": "2026-06-26T10:30:53.079Z"
       },
       "1ddeed01-ecdd-54f1-89e3-6b99a0527c1f|https://dailybeirut.com/en/artificial-intelligence/anthropics-claude-sees-75-growth-among-paying-ai-consumers-2026": {
@@ -170,6 +198,27 @@
         "url": "https://claudefa.st/blog/guide/changelog",
         "captureTime": "2026-06-26T10:30:55Z",
         "firstSeen": "2026-06-26T10:30:53.079Z"
+      },
+      "5e948ab5-5cb3-5d48-aa08-f448355ab02a|https://releasebot.io/updates/anthropic/claude-developer-platform": {
+        "docId": "5e948ab5-5cb3-5d48-aa08-f448355ab02a",
+        "title": "Claude Developer Platform Updates by Anthropic - June 2026 - Releasebot",
+        "url": "https://releasebot.io/updates/anthropic/claude-developer-platform",
+        "captureTime": "2026-06-27T09:35:39Z",
+        "firstSeen": "2026-06-27T09:35:36.129Z"
+      },
+      "bbe70cd5-703f-58c2-9baf-92e611b0a3df|https://www.cnet.com/news-live/claude-outage-anthropic-status-june-16-2026": {
+        "docId": "bbe70cd5-703f-58c2-9baf-92e611b0a3df",
+        "title": "Is Claude Down? Here's the Latest - CNET",
+        "url": "https://www.cnet.com/news-live/claude-outage-anthropic-status-june-16-2026",
+        "captureTime": "2026-06-27T09:35:39Z",
+        "firstSeen": "2026-06-27T09:35:36.129Z"
+      },
+      "ed435fd5-a1e8-5f8f-b4f4-b771df674cd7|https://github.com/anthropics/claude-code/releases": {
+        "docId": "ed435fd5-a1e8-5f8f-b4f4-b771df674cd7",
+        "title": "Releases · anthropics/claude-code",
+        "url": "https://github.com/anthropics/claude-code/releases",
+        "captureTime": "2026-06-27T09:35:39Z",
+        "firstSeen": "2026-06-27T09:35:36.129Z"
       }
     },
     "8mteg4": {
@@ -212,7 +261,7 @@
         "docId": "11b2cb07-108a-5693-987e-dea2ad7d1e4b",
         "title": "Best Open-Source AI Coding Agents in 2026 — Agentic.ai",
         "url": "https://agentic.ai/best/open-source-coding-agents",
-        "captureTime": "2026-06-25T10:22:12Z",
+        "captureTime": "2026-06-27T09:35:41Z",
         "firstSeen": "2026-06-25T10:22:07.184Z"
       },
       "7ec8d49b-f924-5da4-8119-bce6702ea2ad|https://goose-docs.ai/": {
@@ -240,7 +289,7 @@
         "docId": "f0d84fea-85b1-56bf-9675-e0e634ef26a3",
         "title": "18 Best AI Coding Agents in 2026 — Agentic.ai",
         "url": "https://agentic.ai/best/coding-agents",
-        "captureTime": "2026-06-25T10:22:12Z",
+        "captureTime": "2026-06-27T09:35:41Z",
         "firstSeen": "2026-06-25T10:22:07.184Z"
       },
       "1532a759-daeb-5fe5-a8c7-acf4083901a5|https://www.techradar.com/pro/how-to-automate-workflows-using-open-source-ai-agents": {
@@ -263,6 +312,27 @@
         "url": "https://technosports.co.in/automate-workflows-ai-agents",
         "captureTime": "2026-06-26T10:30:57Z",
         "firstSeen": "2026-06-26T10:30:53.079Z"
+      },
+      "3fa32095-7613-5468-8e4b-84334b35feef|https://agentic.ai/best/general-purpose-agents": {
+        "docId": "3fa32095-7613-5468-8e4b-84334b35feef",
+        "title": "9 Best General-Purpose AI Agents in 2026 — Agentic.ai",
+        "url": "https://agentic.ai/best/general-purpose-agents",
+        "captureTime": "2026-06-27T09:35:41Z",
+        "firstSeen": "2026-06-27T09:35:36.129Z"
+      },
+      "66d8ad91-a462-5d8e-8995-b35c6bc82394|https://agentic.ai/what-is-agentic-ai": {
+        "docId": "66d8ad91-a462-5d8e-8995-b35c6bc82394",
+        "title": "What Is Agentic AI? Definition, 6 Levels & Examples (2026) | Agentic.ai",
+        "url": "https://agentic.ai/what-is-agentic-ai",
+        "captureTime": "2026-06-27T09:35:41Z",
+        "firstSeen": "2026-06-27T09:35:36.129Z"
+      },
+      "4196a43d-84f8-5158-a183-502b6242aec2|https://www.instagram.com/p/DaDkoDIo8Zc": {
+        "docId": "4196a43d-84f8-5158-a183-502b6242aec2",
+        "title": "How to run an AI agent INSIDE your network CLI for 2026 ... - Instagram",
+        "url": "https://www.instagram.com/p/DaDkoDIo8Zc",
+        "captureTime": "2026-06-27T09:35:41Z",
+        "firstSeen": "2026-06-27T09:35:36.129Z"
       }
     }
   }
