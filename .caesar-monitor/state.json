@@ -10,9 +10,9 @@
       },
       "a53c6d05-e9b5-5f72-8a92-f5418bb6b348|https://www.scriptbyai.com/timeline-of-chatgpt": {
         "docId": "a53c6d05-e9b5-5f72-8a92-f5418bb6b348",
-        "title": "OpenAI & ChatGPT Timeline: GPT Release Dates to GPT-5.5 (2026)",
+        "title": "OpenAI & ChatGPT Timeline: GPT Release Dates to GPT-5.6 (2026)",
         "url": "https://www.scriptbyai.com/timeline-of-chatgpt",
-        "captureTime": "2026-06-24T10:28:57Z",
+        "captureTime": "2026-06-28T10:09:06Z",
         "firstSeen": "2026-06-24T10:28:57.222Z"
       },
       "cc5762e5-db1f-52e5-be30-c15632a92765|https://openai.com/news/product-releases": {
@@ -26,7 +26,7 @@
         "docId": "02b14f54-b795-59a9-a09c-a9cf56d3a79c",
         "title": "New AI Model Releases - Latest AI Models Released Today",
         "url": "https://aiflashreport.com/topics/new-ai-model-releases.html",
-        "captureTime": "2026-06-24T10:28:57Z",
+        "captureTime": "2026-06-28T10:09:06Z",
         "firstSeen": "2026-06-24T10:28:57.222Z"
       },
       "95a22b09-b088-5141-be94-8d84ab0d65b9|https://whatllm.org/blog/new-ai-models-may-2026": {
@@ -54,7 +54,7 @@
         "docId": "fecec7bb-e818-5383-9a0b-8824a8fe2c99",
         "title": "OpenAI Release Notes - June 2026 Latest Updates - Releasebot",
         "url": "https://releasebot.io/updates/openai",
-        "captureTime": "2026-06-25T10:22:07Z",
+        "captureTime": "2026-06-28T10:09:06Z",
         "firstSeen": "2026-06-25T10:22:07.184Z"
       },
       "5f20ad9b-639e-516d-bfcf-158ffdb31263|https://llm-stats.com/llm-updates": {
@@ -96,7 +96,7 @@
         "docId": "8593ed45-ceed-5616-bfe7-fd245bd22296",
         "title": "OpenAI releases powerful new GPT-5.6 model under restrictions",
         "url": "https://www.axios.com/2026/06/26/openai-gpt-sol-terra-luna-trump",
-        "captureTime": "2026-06-27T09:35:36Z",
+        "captureTime": "2026-06-28T10:09:06Z",
         "firstSeen": "2026-06-27T09:35:36.129Z"
       },
       "94b22f46-ddad-5894-be9f-9bbda198afb9|https://www.theepochtimes.com/tech/openai-releases-new-flagship-model-to-limited-users-following-government-concerns-6053937": {
@@ -119,6 +119,13 @@
         "url": "https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html",
         "captureTime": "2026-06-27T09:35:36Z",
         "firstSeen": "2026-06-27T09:35:36.129Z"
+      },
+      "7113995b-925a-54f7-a3cb-67a5b4870879|https://www.facebook.com/axiosnews/posts/just-in-openai-releases-powerful-new-gpt-56-model-under-restrictions/1395577739098858": {
+        "docId": "7113995b-925a-54f7-a3cb-67a5b4870879",
+        "title": "OpenAI releases powerful new GPT-5.6 model under restrictions",
+        "url": "https://www.facebook.com/axiosnews/posts/just-in-openai-releases-powerful-new-gpt-56-model-under-restrictions/1395577739098858",
+        "captureTime": "2026-06-28T10:09:06Z",
+        "firstSeen": "2026-06-28T10:09:06.497Z"
       }
     },
     "pqboak": {
@@ -126,21 +133,21 @@
         "docId": "6e79b899-7d2f-5ed4-a370-877d20dc0062",
         "title": "Claude Code Updates by Anthropic - June 2026 - Releasebot",
         "url": "https://releasebot.io/updates/anthropic/claude-code",
-        "captureTime": "2026-06-26T10:30:55Z",
+        "captureTime": "2026-06-28T10:09:08Z",
         "firstSeen": "2026-06-24T10:28:57.222Z"
       },
       "7918e575-13a4-5705-b07c-32e1e49c3070|https://releasebot.io/updates/anthropic/claude": {
         "docId": "7918e575-13a4-5705-b07c-32e1e49c3070",
         "title": "Claude Updates by Anthropic - June 2026 - Releasebot",
         "url": "https://releasebot.io/updates/anthropic/claude",
-        "captureTime": "2026-06-27T09:35:39Z",
+        "captureTime": "2026-06-28T10:09:08Z",
         "firstSeen": "2026-06-24T10:28:57.222Z"
       },
       "17d481fa-55cb-5b9e-9b7d-7b7f98e9a3ab|https://releasebot.io/updates/anthropic": {
         "docId": "17d481fa-55cb-5b9e-9b7d-7b7f98e9a3ab",
         "title": "Anthropic Release Notes - June 2026 Latest Updates - Releasebot",
         "url": "https://releasebot.io/updates/anthropic",
-        "captureTime": "2026-06-25T10:22:10Z",
+        "captureTime": "2026-06-28T10:09:08Z",
         "firstSeen": "2026-06-24T10:28:57.222Z"
       },
       "b7ed0ee2-d232-5cc1-8296-373ed119d98b|https://www.cnet.com/tech/services-and-software/anthropic-claude-code-design-june-2026-news": {
@@ -203,7 +210,7 @@
         "docId": "5e948ab5-5cb3-5d48-aa08-f448355ab02a",
         "title": "Claude Developer Platform Updates by Anthropic - June 2026 - Releasebot",
         "url": "https://releasebot.io/updates/anthropic/claude-developer-platform",
-        "captureTime": "2026-06-27T09:35:39Z",
+        "captureTime": "2026-06-28T10:09:08Z",
         "firstSeen": "2026-06-27T09:35:36.129Z"
       },
       "bbe70cd5-703f-58c2-9baf-92e611b0a3df|https://www.cnet.com/news-live/claude-outage-anthropic-status-june-16-2026": {
@@ -219,6 +226,13 @@
         "url": "https://github.com/anthropics/claude-code/releases",
         "captureTime": "2026-06-27T09:35:39Z",
         "firstSeen": "2026-06-27T09:35:36.129Z"
+      },
+      "c5b52d42-095a-56db-aa97-bb3361564345|https://teamwin.in/anthropic-confirms-claude-mythos-5-redeployment-for-us-critical-infrastructure-organizations": {
+        "docId": "c5b52d42-095a-56db-aa97-bb3361564345",
+        "title": "Anthropic Confirms Claude Mythos 5 Redeployment for US Critical",
+        "url": "https://teamwin.in/anthropic-confirms-claude-mythos-5-redeployment-for-us-critical-infrastructure-organizations",
+        "captureTime": "2026-06-28T10:09:08Z",
+        "firstSeen": "2026-06-28T10:09:06.497Z"
       }
     },
     "8mteg4": {
@@ -247,7 +261,7 @@
         "docId": "7b1daf6c-02e0-5945-9f7d-029dc8aa21b8",
         "title": "Best 50+ Open Source AI Agents Listed",
         "url": "https://aimultiple.com/open-source-ai-agents",
-        "captureTime": "2026-06-26T10:30:57Z",
+        "captureTime": "2026-06-28T10:09:11Z",
         "firstSeen": "2026-06-24T10:28:57.222Z"
       },
       "2b9c81e0-7f7c-5faa-b3a7-b63139a7155d|https://medium.com/data-science-collective/the-open-source-agent-toolkit-in-2026-da66dda36c9b": {
@@ -333,6 +347,34 @@
         "url": "https://www.instagram.com/p/DaDkoDIo8Zc",
         "captureTime": "2026-06-27T09:35:41Z",
         "firstSeen": "2026-06-27T09:35:36.129Z"
+      },
+      "502bac29-29a9-5fe2-b303-b8b0095d80ba|https://www.remoteopenclaw.com/blog/open-source-ai-agents-2026-comparison": {
+        "docId": "502bac29-29a9-5fe2-b303-b8b0095d80ba",
+        "title": "Open Source AI Agents 2026: OpenClaw vs Hermes vs Nemoclaw",
+        "url": "https://www.remoteopenclaw.com/blog/open-source-ai-agents-2026-comparison",
+        "captureTime": "2026-06-28T10:09:11Z",
+        "firstSeen": "2026-06-28T10:09:06.497Z"
+      },
+      "0673ee00-9028-5502-8dcd-f684b95b0c8f|https://www.sourcetrail.com/python/comprehensive-guide-to-open-source-ai-agent-frameworks": {
+        "docId": "0673ee00-9028-5502-8dcd-f684b95b0c8f",
+        "title": "Best Open Source AI Agent Frameworks & Tools Guide",
+        "url": "https://www.sourcetrail.com/python/comprehensive-guide-to-open-source-ai-agent-frameworks",
+        "captureTime": "2026-06-28T10:09:11Z",
+        "firstSeen": "2026-06-28T10:09:06.497Z"
+      },
+      "8c137b46-9d18-5d30-b692-0b728a1112d0|https://opendatascience.com/how-to-build-ai-agents-for-free-using-open-source": {
+        "docId": "8c137b46-9d18-5d30-b692-0b728a1112d0",
+        "title": "How to Build AI Agents for Free Using Open Source - Open Data Science - Your News Source for AI, Machine Learning & more",
+        "url": "https://opendatascience.com/how-to-build-ai-agents-for-free-using-open-source",
+        "captureTime": "2026-06-28T10:09:11Z",
+        "firstSeen": "2026-06-28T10:09:06.497Z"
+      },
+      "3c413c54-b379-5a56-be6f-2aac264945e8|https://shop.zimaspace.com/blogs/ai-hub/top-10-open-source-ai-agent-skills-github": {
+        "docId": "3c413c54-b379-5a56-be6f-2aac264945e8",
+        "title": "Top 10 Open-Source AI Agent Skills on GitHub – Zima Store Online",
+        "url": "https://shop.zimaspace.com/blogs/ai-hub/top-10-open-source-ai-agent-skills-github",
+        "captureTime": "2026-06-28T10:09:11Z",
+        "firstSeen": "2026-06-28T10:09:06.497Z"
       }
     }
   }
