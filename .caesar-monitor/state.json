@@ -40,7 +40,7 @@
         "docId": "cdfb8288-6d33-582e-9526-184c06cd8f87",
         "title": "LLM News Today (June 2026) – AI Model Releases",
         "url": "https://llm-stats.com/ai-news",
-        "captureTime": "2026-06-26T10:30:53Z",
+        "captureTime": "2026-06-30T10:41:04Z",
         "firstSeen": "2026-06-25T10:22:07.184Z"
       },
       "baeb2597-d551-547f-a4f8-a2d9e7f9f40f|https://releases.sh/openai/releases": {
@@ -61,7 +61,7 @@
         "docId": "5f20ad9b-639e-516d-bfcf-158ffdb31263",
         "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
         "url": "https://llm-stats.com/llm-updates",
-        "captureTime": "2026-06-29T12:12:31Z",
+        "captureTime": "2026-06-30T10:41:04Z",
         "firstSeen": "2026-06-25T10:22:07.184Z"
       },
       "22410217-77f8-55ac-9528-f2124bb00426|https://9to5mac.com/2026/06/24/openai-just-updated-how-chatgpts-most-used-model-works-again-details-here": {
@@ -126,6 +126,27 @@
         "url": "https://www.facebook.com/axiosnews/posts/just-in-openai-releases-powerful-new-gpt-56-model-under-restrictions/1395577739098858",
         "captureTime": "2026-06-29T12:12:31Z",
         "firstSeen": "2026-06-28T10:09:06.497Z"
+      },
+      "e92e42a8-b976-54c8-859c-1d6641baf3eb|https://cryptobriefing.com/openai-releases-gpt-56-models-to-20-partners-public-launch-expected-by-july-2026": {
+        "docId": "e92e42a8-b976-54c8-859c-1d6641baf3eb",
+        "title": "OpenAI releases GPT-5.6 models to 20 partners, public launch expected by July 2026",
+        "url": "https://cryptobriefing.com/openai-releases-gpt-56-models-to-20-partners-public-launch-expected-by-july-2026",
+        "captureTime": "2026-06-30T10:41:04Z",
+        "firstSeen": "2026-06-30T10:41:04.395Z"
+      },
+      "0d46100e-8d4d-53c0-8407-8db8b3f01265|https://en.wikipedia.org/wiki/GPT-5.4": {
+        "docId": "0d46100e-8d4d-53c0-8407-8db8b3f01265",
+        "title": "GPT-5.4 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/GPT-5.4",
+        "captureTime": "2026-06-30T10:41:04Z",
+        "firstSeen": "2026-06-30T10:41:04.395Z"
+      },
+      "54aa486c-df87-58e5-86be-9ba6a7743802|https://en.wikipedia.org/wiki/GPT-5.5": {
+        "docId": "54aa486c-df87-58e5-86be-9ba6a7743802",
+        "title": "GPT-5.5 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/GPT-5.5",
+        "captureTime": "2026-06-30T10:41:04Z",
+        "firstSeen": "2026-06-30T10:41:04.395Z"
       }
     },
     "pqboak": {
@@ -140,7 +161,7 @@
         "docId": "7918e575-13a4-5705-b07c-32e1e49c3070",
         "title": "Claude Updates by Anthropic - June 2026 - Releasebot",
         "url": "https://releasebot.io/updates/anthropic/claude",
-        "captureTime": "2026-06-29T12:12:33Z",
+        "captureTime": "2026-06-30T10:41:06Z",
         "firstSeen": "2026-06-24T10:28:57.222Z"
       },
       "17d481fa-55cb-5b9e-9b7d-7b7f98e9a3ab|https://releasebot.io/updates/anthropic": {
@@ -203,7 +224,7 @@
         "docId": "ed58b8b4-5bd4-5129-ab64-a334ced5b512",
         "title": "Claude Code Changelog: All Release Notes (2026)",
         "url": "https://claudefa.st/blog/guide/changelog",
-        "captureTime": "2026-06-26T10:30:55Z",
+        "captureTime": "2026-06-30T10:41:06Z",
         "firstSeen": "2026-06-26T10:30:53.079Z"
       },
       "5e948ab5-5cb3-5d48-aa08-f448355ab02a|https://releasebot.io/updates/anthropic/claude-developer-platform": {
@@ -233,6 +254,27 @@
         "url": "https://teamwin.in/anthropic-confirms-claude-mythos-5-redeployment-for-us-critical-infrastructure-organizations",
         "captureTime": "2026-06-28T10:09:08Z",
         "firstSeen": "2026-06-28T10:09:06.497Z"
+      },
+      "26a077cc-c1b2-586e-ac4d-8e1fbae02e48|https://en.wikipedia.org/wiki/Claude_(AI)": {
+        "docId": "26a077cc-c1b2-586e-ac4d-8e1fbae02e48",
+        "title": "Claude (AI) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Claude_(AI)",
+        "captureTime": "2026-06-30T10:41:06Z",
+        "firstSeen": "2026-06-30T10:41:04.395Z"
+      },
+      "c1dcd38e-b2a7-5f3d-9257-336300745a45|https://www.appbrain.com/app/claude-by-anthropic/com.anthropic.claude": {
+        "docId": "c1dcd38e-b2a7-5f3d-9257-336300745a45",
+        "title": "Claude by Anthropic: Free Productivity - Stats, Ratings ... - AppBrain",
+        "url": "https://www.appbrain.com/app/claude-by-anthropic/com.anthropic.claude",
+        "captureTime": "2026-06-30T10:41:06Z",
+        "firstSeen": "2026-06-30T10:41:04.395Z"
+      },
+      "1cc07689-15cb-52c3-8a9d-8f63ec27dded|https://www.scriptbyai.com/anthropic-claude-timeline": {
+        "docId": "1cc07689-15cb-52c3-8a9d-8f63ec27dded",
+        "title": "Claude Timeline: Model Release Dates and Key Milestones (Fable 5 Released)",
+        "url": "https://www.scriptbyai.com/anthropic-claude-timeline",
+        "captureTime": "2026-06-30T10:41:06Z",
+        "firstSeen": "2026-06-30T10:41:04.395Z"
       }
     },
     "8mteg4": {
@@ -282,14 +324,14 @@
         "docId": "7ec8d49b-f924-5da4-8119-bce6702ea2ad",
         "title": "goose | Your open source AI agent",
         "url": "https://goose-docs.ai/",
-        "captureTime": "2026-06-25T10:22:12Z",
+        "captureTime": "2026-06-30T10:41:09Z",
         "firstSeen": "2026-06-25T10:22:07.184Z"
       },
       "9d838825-4397-50db-b62c-18171720e519|https://agentic.ai/best/free-coding-agents": {
         "docId": "9d838825-4397-50db-b62c-18171720e519",
         "title": "10 Best Free AI Coding Agents in 2026 — Agentic.ai",
         "url": "https://agentic.ai/best/free-coding-agents",
-        "captureTime": "2026-06-25T10:22:12Z",
+        "captureTime": "2026-06-30T10:41:09Z",
         "firstSeen": "2026-06-25T10:22:07.184Z"
       },
       "4dabcb48-a2d7-5882-a7c7-fc34e1130449|https://github.com/omnigent-ai/omnigent": {
@@ -303,7 +345,7 @@
         "docId": "f0d84fea-85b1-56bf-9675-e0e634ef26a3",
         "title": "18 Best AI Coding Agents in 2026 — Agentic.ai",
         "url": "https://agentic.ai/best/coding-agents",
-        "captureTime": "2026-06-27T09:35:41Z",
+        "captureTime": "2026-06-30T10:41:09Z",
         "firstSeen": "2026-06-25T10:22:07.184Z"
       },
       "1532a759-daeb-5fe5-a8c7-acf4083901a5|https://www.techradar.com/pro/how-to-automate-workflows-using-open-source-ai-agents": {
@@ -382,6 +424,20 @@
         "url": "https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026",
         "captureTime": "2026-06-29T12:12:35Z",
         "firstSeen": "2026-06-29T12:12:31.150Z"
+      },
+      "b19da9f3-3dbf-52fe-a16b-f4b4dd013a68|https://www.mindstudio.ai/blog/what-is-hermes-agent-open-source-ai-platform-explained": {
+        "docId": "b19da9f3-3dbf-52fe-a16b-f4b4dd013a68",
+        "title": "What Is Hermes Agent? The Open-Source AI Agent Platform Explained | MindStudio",
+        "url": "https://www.mindstudio.ai/blog/what-is-hermes-agent-open-source-ai-platform-explained",
+        "captureTime": "2026-06-30T10:41:09Z",
+        "firstSeen": "2026-06-30T10:41:04.395Z"
+      },
+      "4b1b50d7-3bc9-599b-946f-75f58bedd602|https://cline.bot/": {
+        "docId": "4b1b50d7-3bc9-599b-946f-75f58bedd602",
+        "title": "Cline - AI Coding, Open Source and Uncompromised",
+        "url": "https://cline.bot/",
+        "captureTime": "2026-06-30T10:41:09Z",
+        "firstSeen": "2026-06-30T10:41:04.395Z"
       }
     }
   }
