@@ -38,9 +38,9 @@
       },
       "cdfb8288-6d33-582e-9526-184c06cd8f87|https://llm-stats.com/ai-news": {
         "docId": "cdfb8288-6d33-582e-9526-184c06cd8f87",
-        "title": "LLM News Today (June 2026) – AI Model Releases",
+        "title": "LLM News Today (July 2026) – AI Model Releases",
         "url": "https://llm-stats.com/ai-news",
-        "captureTime": "2026-06-30T10:41:04Z",
+        "captureTime": "2026-07-02T10:15:55Z",
         "firstSeen": "2026-06-25T10:22:07.184Z"
       },
       "baeb2597-d551-547f-a4f8-a2d9e7f9f40f|https://releases.sh/openai/releases": {
@@ -52,16 +52,16 @@
       },
       "fecec7bb-e818-5383-9a0b-8824a8fe2c99|https://releasebot.io/updates/openai": {
         "docId": "fecec7bb-e818-5383-9a0b-8824a8fe2c99",
-        "title": "OpenAI Release Notes - June 2026 Latest Updates - Releasebot",
+        "title": "OpenAI Release Notes - July 2026 Latest Updates - Releasebot",
         "url": "https://releasebot.io/updates/openai",
-        "captureTime": "2026-06-29T12:12:31Z",
+        "captureTime": "2026-07-02T10:15:55Z",
         "firstSeen": "2026-06-25T10:22:07.184Z"
       },
       "5f20ad9b-639e-516d-bfcf-158ffdb31263|https://llm-stats.com/llm-updates": {
         "docId": "5f20ad9b-639e-516d-bfcf-158ffdb31263",
-        "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
+        "title": "AI Updates Today (July 2026) – Latest AI Model Releases",
         "url": "https://llm-stats.com/llm-updates",
-        "captureTime": "2026-06-30T10:41:04Z",
+        "captureTime": "2026-07-02T10:15:55Z",
         "firstSeen": "2026-06-25T10:22:07.184Z"
       },
       "22410217-77f8-55ac-9528-f2124bb00426|https://9to5mac.com/2026/06/24/openai-just-updated-how-chatgpts-most-used-model-works-again-details-here": {
@@ -147,28 +147,42 @@
         "url": "https://en.wikipedia.org/wiki/GPT-5.5",
         "captureTime": "2026-06-30T10:41:04Z",
         "firstSeen": "2026-06-30T10:41:04.395Z"
+      },
+      "96291f8f-2b41-58fc-8ac4-96ed98c11b5c|https://en.wikipedia.org/wiki/GPT-5.6": {
+        "docId": "96291f8f-2b41-58fc-8ac4-96ed98c11b5c",
+        "title": "GPT-5.6 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/GPT-5.6",
+        "captureTime": "2026-07-02T10:15:55Z",
+        "firstSeen": "2026-07-02T10:15:55.403Z"
+      },
+      "cbe39d6c-a55e-552a-96c6-b46e78b6cdf0|https://www.devflokers.com/blog/open-source-ai-roundup-june-2026": {
+        "docId": "cbe39d6c-a55e-552a-96c6-b46e78b6cdf0",
+        "title": "Open-Source AI June 2026: New Models, Agents & Papers | devFlokers",
+        "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+        "captureTime": "2026-07-02T10:15:55Z",
+        "firstSeen": "2026-07-02T10:15:55.403Z"
       }
     },
     "pqboak": {
       "6e79b899-7d2f-5ed4-a370-877d20dc0062|https://releasebot.io/updates/anthropic/claude-code": {
         "docId": "6e79b899-7d2f-5ed4-a370-877d20dc0062",
-        "title": "Claude Code Updates by Anthropic - June 2026 - Releasebot",
+        "title": "Claude Code Updates by Anthropic - July 2026 - Releasebot",
         "url": "https://releasebot.io/updates/anthropic/claude-code",
-        "captureTime": "2026-06-29T12:12:33Z",
+        "captureTime": "2026-07-02T10:15:58Z",
         "firstSeen": "2026-06-24T10:28:57.222Z"
       },
       "7918e575-13a4-5705-b07c-32e1e49c3070|https://releasebot.io/updates/anthropic/claude": {
         "docId": "7918e575-13a4-5705-b07c-32e1e49c3070",
-        "title": "Claude Updates by Anthropic - June 2026 - Releasebot",
+        "title": "Claude Updates by Anthropic - July 2026 - Releasebot",
         "url": "https://releasebot.io/updates/anthropic/claude",
-        "captureTime": "2026-06-30T10:41:06Z",
+        "captureTime": "2026-07-02T10:15:58Z",
         "firstSeen": "2026-06-24T10:28:57.222Z"
       },
       "17d481fa-55cb-5b9e-9b7d-7b7f98e9a3ab|https://releasebot.io/updates/anthropic": {
         "docId": "17d481fa-55cb-5b9e-9b7d-7b7f98e9a3ab",
-        "title": "Anthropic Release Notes - June 2026 Latest Updates - Releasebot",
+        "title": "Anthropic Release Notes - July 2026 Latest Updates - Releasebot",
         "url": "https://releasebot.io/updates/anthropic",
-        "captureTime": "2026-06-29T12:12:33Z",
+        "captureTime": "2026-07-02T10:15:58Z",
         "firstSeen": "2026-06-24T10:28:57.222Z"
       },
       "b7ed0ee2-d232-5cc1-8296-373ed119d98b|https://www.cnet.com/tech/services-and-software/anthropic-claude-code-design-june-2026-news": {
@@ -229,9 +243,9 @@
       },
       "5e948ab5-5cb3-5d48-aa08-f448355ab02a|https://releasebot.io/updates/anthropic/claude-developer-platform": {
         "docId": "5e948ab5-5cb3-5d48-aa08-f448355ab02a",
-        "title": "Claude Developer Platform Updates by Anthropic - June 2026 - Releasebot",
+        "title": "Claude Developer Platform Updates by Anthropic - July 2026 - Releasebot",
         "url": "https://releasebot.io/updates/anthropic/claude-developer-platform",
-        "captureTime": "2026-06-29T12:12:33Z",
+        "captureTime": "2026-07-02T10:15:58Z",
         "firstSeen": "2026-06-27T09:35:36.129Z"
       },
       "bbe70cd5-703f-58c2-9baf-92e611b0a3df|https://www.cnet.com/news-live/claude-outage-anthropic-status-june-16-2026": {
@@ -275,6 +289,13 @@
         "url": "https://www.scriptbyai.com/anthropic-claude-timeline",
         "captureTime": "2026-06-30T10:41:06Z",
         "firstSeen": "2026-06-30T10:41:04.395Z"
+      },
+      "9bd0c2de-9e4e-57a9-857e-1b76f386e00b|https://blog.mean.ceo/anthropic-claude-news-july-2026": {
+        "docId": "9bd0c2de-9e4e-57a9-857e-1b76f386e00b",
+        "title": "Anthropic Claude News | July, 2026 (STARTUP EDITION)",
+        "url": "https://blog.mean.ceo/anthropic-claude-news-july-2026",
+        "captureTime": "2026-07-02T10:15:58Z",
+        "firstSeen": "2026-07-02T10:15:55.403Z"
       }
     },
     "8mteg4": {
@@ -324,14 +345,14 @@
         "docId": "7ec8d49b-f924-5da4-8119-bce6702ea2ad",
         "title": "goose | Your open source AI agent",
         "url": "https://goose-docs.ai/",
-        "captureTime": "2026-06-30T10:41:09Z",
+        "captureTime": "2026-07-02T10:16:00Z",
         "firstSeen": "2026-06-25T10:22:07.184Z"
       },
       "9d838825-4397-50db-b62c-18171720e519|https://agentic.ai/best/free-coding-agents": {
         "docId": "9d838825-4397-50db-b62c-18171720e519",
         "title": "10 Best Free AI Coding Agents in 2026 — Agentic.ai",
         "url": "https://agentic.ai/best/free-coding-agents",
-        "captureTime": "2026-06-30T10:41:09Z",
+        "captureTime": "2026-07-02T10:16:00Z",
         "firstSeen": "2026-06-25T10:22:07.184Z"
       },
       "4dabcb48-a2d7-5882-a7c7-fc34e1130449|https://github.com/omnigent-ai/omnigent": {
@@ -438,6 +459,27 @@
         "url": "https://cline.bot/",
         "captureTime": "2026-06-30T10:41:09Z",
         "firstSeen": "2026-06-30T10:41:04.395Z"
+      },
+      "75ea30fb-8b03-5a28-87e8-2b9183dbe694|https://www.ipfoxy.com/blog/%E6%9C%AA%E5%88%86%E7%B1%BB-en/6640": {
+        "docId": "75ea30fb-8b03-5a28-87e8-2b9183dbe694",
+        "title": "Top 10 GitHub AI Open-Source Projects Every Developer Should Know in 2026 - IPFoxy Blog",
+        "url": "https://www.ipfoxy.com/blog/%E6%9C%AA%E5%88%86%E7%B1%BB-en/6640",
+        "captureTime": "2026-07-02T10:16:00Z",
+        "firstSeen": "2026-07-02T10:15:55.403Z"
+      },
+      "7ae7ba17-2cad-55a5-96cb-8a3f3ca8fbec|https://www.gumloop.com/blog/open-source-ai-agents": {
+        "docId": "7ae7ba17-2cad-55a5-96cb-8a3f3ca8fbec",
+        "title": "5 best open source AI agents I'm using in 2026",
+        "url": "https://www.gumloop.com/blog/open-source-ai-agents",
+        "captureTime": "2026-07-02T10:16:00Z",
+        "firstSeen": "2026-07-02T10:15:55.403Z"
+      },
+      "148f27be-6655-5898-b6d6-5ccea5c77bf2|https://www.weex.com/news/detail/5-best-ai-agents-in-2026-a-beginners-guide-to-cryptos-autonomous-future-689701": {
+        "docId": "148f27be-6655-5898-b6d6-5ccea5c77bf2",
+        "title": "5 Best AI Agents in 2026: A Beginner's Guide to Crypto's Autonomous Future | WEEX Crypto News",
+        "url": "https://www.weex.com/news/detail/5-best-ai-agents-in-2026-a-beginners-guide-to-cryptos-autonomous-future-689701",
+        "captureTime": "2026-07-02T10:16:00Z",
+        "firstSeen": "2026-07-02T10:15:55.403Z"
       }
     }
   }
